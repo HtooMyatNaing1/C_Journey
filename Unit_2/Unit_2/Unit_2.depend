@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1737656653 source:d:\embedded_engineering_dbailab\c_c++\unit_2\unit_2\main.c
+1737747453 source:d:\embedded_engineering_dbailab\c_c++\unit_2\unit_2\main.c
 	<stdio.h>
-	<stdlib.h>
+	<stdio.h>
 
